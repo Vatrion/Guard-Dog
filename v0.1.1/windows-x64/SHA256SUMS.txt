@@ -1,1 +1,1 @@
-fcd6aa973afec0d5300514bba34277e897b95d169084b92c957e55cfec3ecb3b  guard_dog-0.1.1-cp312-cp312-win_amd64.whl
+cd7ce98746caed787523de376229a53c890202c9d3a389dc6d7c345d7caf9fde  guard_dog-0.1.1-cp313-cp313-win_amd64.whl
