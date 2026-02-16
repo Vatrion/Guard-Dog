@@ -1,1 +1,1 @@
-4fa254d4b12c6d882d7ee0f0c75a5be4ee9bbb97b9805cbbec10ca2b0dc5883f  guard_dog-0.1.1-cp312-cp312-macosx_11_0_universal2.whl
+fc8a569f331916cc2cf29dc99469e110b8125d68b6daf32458e8a4ddcc985e50  guard_dog-0.1.1-cp313-cp313-macosx_11_0_universal2.whl
