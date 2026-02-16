@@ -1,1 +1,1 @@
-679963e342d5a1ed5f55e82befbe58aa0173d94e6e8b08eb7c395d10a34a86cb  guard_dog-0.1.1-cp314-cp314-linux_x86_64.whl
+d6c65b7d70a30f8b1ec0c9da50abe116e54a5a44f2324bcbb551fa6083555946  guard_dog-0.1.1-cp312-cp312-linux_x86_64.whl
